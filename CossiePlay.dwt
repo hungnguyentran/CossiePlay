@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CossiePlay</title>
+<link rel="stylesheet" href="../CSS/CossiePlay.css">
+</head>
+
+<body>
+<div class="header"> CossiePlay </div>
+<div id="header">
+</div>			
+<div align="center"> 
+<ul id="Nav">
+<li><a href="../index.html">HOME</a></li>
+<li><a href="../About.html">ABOUT</a></li>		
+<li><a href="../Announcements.html">ANNOUNCEMENTS</a></li>
+<li><a href="../GuildLine.html">GUILDLINE</a></li>
+<li><a href="../SignUp.html">SIGN-UP</a></li>
+<li><a href="../Links.html">LINKS</a></li>
+<li><a href="../Contact.html">CONTACT</a></li>
+</ul>
+</div>
+<!-- TemplateBeginEditable name="Content" -->
+<h1 id="Content"> This is Content </h1>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Footer" -->
+<h1 id="Footer"> This is Footer </h1>
+<!-- TemplateEndEditable -->
+</body>
+</html>
